@@ -36,3 +36,4 @@ exclude:
 - Gemfile.lock
 - script
 - vendor
+theme: jekyll-theme-time-machine
