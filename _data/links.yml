@@ -360,9 +360,9 @@
       style: basic
       url: http://pay.imnu.edu.cn:8244/payment/login
 
-    - name: 空闲自习室查询
-      style: basic
-      url: http://buptclass.com/
+#    - name: 空闲自习室查询
+#      style: basic
+#      url: http://buptclass.com/
 
 #  - category: 论坛相关
 #    links:
@@ -410,9 +410,9 @@
 
   - category: 其他
     links:
-    - name: 空余教室查询
-      style: basic
-      url: http://jwc.bupt.edu.cn/content/content.php?p=10_2_235
+#    - name: 空余教室查询
+#      style: basic
+#      url: http://jwc.bupt.edu.cn/content/content.php?p=10_2_235
 
     - name: 辅修专业
       style: basic
@@ -426,9 +426,9 @@
       style: basic
       url: http://www.xueyuanlu.cn/
 
-    - name: 创新学分
-      style: basic
-      url: http://jwc.bupt.edu.cn/list/list.php?p=9_39_1
+#    - name: 创新学分
+#      style: basic
+#      url: http://jwc.bupt.edu.cn/list/list.php?p=9_39_1
 
     - name: 课表查询
       style: basic
