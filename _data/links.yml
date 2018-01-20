@@ -107,7 +107,7 @@
       url: https://www.wikipedia.org/
 
     - name: 在线工具
-      style: pink
+      style: basic
       url: https://tool.lu/
 
     - name: TinEye
@@ -127,7 +127,7 @@
 
     - name: 百度贴吧
       icon: paw blue
-      style: violet
+      style: basic
       url: https://tieba.baidu.com/
 
     - name: Quora
@@ -225,7 +225,7 @@
       url: https://www.zhipin.com/
 
     - name: 智联招聘
-      style: basic
+      style: pink
       url: http://zhaopin.com/
 
     - name: 前程无忧
