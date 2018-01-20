@@ -9,13 +9,11 @@ alias_en: NSD-Navi
 alias_cn: 内师大专属导航
 description: A Navigation Website for NSD
 keywords: 内师大专属导航, NSD-Navi, NSD, BUPT, Navi, Navigation
-#url: https://github.com/D491675881/NSD-Navi
-url: http://nsd-navi.com
+url: https://github.com/D491675881/NSD-Navi
+#url: http://nsd-navi.com
 
 author: iROCKBUNNY
 author_url: http://irockbunny.com
-organization: TEELAB
-organization_url: http://teelab.net
 contact: contact[at]irockbunny[dot]com
 
 image: /images/logo.png

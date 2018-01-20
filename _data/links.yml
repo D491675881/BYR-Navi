@@ -437,37 +437,37 @@
 #      style: basic
 #      url: http://jwc.bupt.edu.cn/list/list.php?p=9_39_1
 
-    - name: 课表查询
-      style: basic
-      url: http://jpkc.imnu.edu.cn/
-
-    - name: 考表查询
-      style: basic
-      url: http://jwc.bupt.edu.cn/list/list.php?p=4_35_1
-
-    - name: 出国成绩单办理
-      style: basic
-      url: http://jwc.bupt.edu.cn/content/content.php?p=5_27_65
-
-    - name: 教学事务流程
-      style: basic
-      url: http://jwc.bupt.edu.cn/content/content.php?p=5_68_111
-
-    - name: 创新实践平台
-      style: basic
-      url: http://cslab.bupt.edu.cn/innovation/
-
-    - name: 申请护照通行证
-      style: basic
-      url: http://xsc.bupt.edu.cn/content/content.php?p=27_26_48
-
-    - name: 补办学生证
-      style: basic
-      url: http://xsc.bupt.edu.cn/content/content.php?p=27_26_48
-
-    - name: 校园一卡通
-      style: basic
-      url: http://ecard.bupt.edu.cn/
+#    - name: 课表查询
+#      style: basic
+#      url: http://jpkc.imnu.edu.cn/
+#
+#    - name: 考表查询
+#      style: basic
+#      url: http://jwc.bupt.edu.cn/list/list.php?p=4_35_1
+#
+#    - name: 出国成绩单办理
+#      style: basic
+#      url: http://jwc.bupt.edu.cn/content/content.php?p=5_27_65
+#
+#    - name: 教学事务流程
+#      style: basic
+#      url: http://jwc.bupt.edu.cn/content/content.php?p=5_68_111
+#
+#    - name: 创新实践平台
+#      style: basic
+#      url: http://cslab.bupt.edu.cn/innovation/
+#
+#    - name: 申请护照通行证
+#      style: basic
+#      url: http://xsc.bupt.edu.cn/content/content.php?p=27_26_48
+#
+#    - name: 补办学生证
+#      style: basic
+#      url: http://xsc.bupt.edu.cn/content/content.php?p=27_26_48
+#
+#    - name: 校园一卡通
+#      style: basic
+#      url: http://ecard.bupt.edu.cn/
 
     - name: 办公电话
       style: basic
