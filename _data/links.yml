@@ -115,7 +115,7 @@
       url: https://www.tineye.com/
 
     - name: 磁力搜索
-      style: basic
+      style: yellow
       url: http://www.btyunsou.me/
 
   - category: 社交
@@ -291,7 +291,7 @@
       style: yellow
       url: http://www.zimuxia.cn/
 
-- section: byr
+- section: nsd
   categories:
   - category: 内师大校园
     links:
