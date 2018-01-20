@@ -44,7 +44,7 @@ function updateVisit(updateProgressBar) {
         'format': 'JSON',
         'token_auth': analyticsAPI.token
     }, function (data) {
-        $('#today-visitors img').attr('src', 'https://img.shields.io/badge/%E4%BB%8A%E6%97%A5%E8%AE%BF%E5%AE%A2-' + encodeURIComponent(data.value-5) + '-brightgreen.svg');
+        $('#today-visitors img').attr('src', 'https://img.shields.io/badge/%E4%BB%8A%E6%97%A5%E8%AE%BF%E5%AE%A2-' + encodeURIComponent(data.value - 1) + '-brightgreen.svg');
         if (updateProgressBar) {
             $('#page-loading-progress').progress('increment');
         };
