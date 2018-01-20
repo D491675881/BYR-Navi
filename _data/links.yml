@@ -115,6 +115,10 @@
       style: basic
       url: https://www.tineye.com/
 
+    - name: 在线工具
+      style: pink
+      url: https://tool.lu/
+
   - category: 社交
     links:
     - name: 微博
@@ -124,12 +128,12 @@
 
     - name: 微信网页版
       icon: wechat green
-      style: basic
+      style: orange
       url: https://wx.qq.com/
 
     - name: 百度贴吧
       icon: paw blue
-      style: basic
+      style: violet
       url: https://tieba.baidu.com/
 
     - name: 知乎
@@ -168,7 +172,7 @@
 
   - category: 学习
     links:
-    - name: Coursera
+    - name: 慕课
       style: green
       url: https://www.icourse163.org/
 
