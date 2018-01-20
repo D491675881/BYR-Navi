@@ -421,17 +421,17 @@
 #      style: basic
 #      url: http://jwc.bupt.edu.cn/content/content.php?p=10_2_235
 
-    - name: 辅修专业
-      style: basic
-      url: http://jwc.bupt.edu.cn/list/list.php?p=7_50_1
-
-    - name: 毕业设计
-      style: basic
-      url: http://jwc.bupt.edu.cn/list/list.php?p=9_38_1
-
-    - name: 学生校际选修
-      style: basic
-      url: http://www.xueyuanlu.cn/
+#    - name: 辅修专业
+#      style: basic
+#      url: http://jwc.bupt.edu.cn/list/list.php?p=7_50_1
+#
+#    - name: 毕业设计
+#      style: basic
+#      url: http://jwc.bupt.edu.cn/list/list.php?p=9_38_1
+#
+#    - name: 学生校际选修
+#      style: basic
+#      url: http://www.xueyuanlu.cn/
 
 #    - name: 创新学分
 #      style: basic
