@@ -106,13 +106,17 @@
       style: basic
       url: https://www.wikipedia.org/
 
-    - name: TinEye(图像搜索)
-      style: basic
-      url: https://www.tineye.com/
-
     - name: 在线工具
       style: pink
       url: https://tool.lu/
+
+    - name: TinEye
+      style: basic
+      url: https://www.tineye.com/
+
+    - name: 磁力搜索
+      style: basic
+      url: http://www.btyunsou.me/
 
   - category: 社交
     links:
@@ -126,14 +130,14 @@
       style: violet
       url: https://tieba.baidu.com/
 
-    - name: 知乎
-      style: blue
-      url: https://www.zhihu.com/
-
     - name: Quora
       icon: quora red
       style: basic
       url: https://www.quora.com/
+
+    - name: 知乎
+      style: blue
+      url: https://www.zhihu.com/
 
     - name: Facebook
       icon: facebook blue
@@ -291,11 +295,11 @@
   categories:
   - category: 内师大校园
     links:
-    - name: 内师大官网
+    - name: 师大官网
       style: basic
       url: http://www.imnu.edu.cn/
 
-    - name: 校园网
+    - name: 校园网登录
       style: red
       url: http://logout.imnu.edu.cn/
 
@@ -347,11 +351,11 @@
       style: basic
       url: http://219.225.185.186/
 
-    - name: 内师大贴吧
+    - name: 贴吧
       style: blue
       url: http://tieba.baidu.com/f?kw=%C4%DA%C3%C9%B9%C5%CA%A6%B7%B6%B4%F3%D1%A7&fr=ala0&tpl=5
 
-    - name: 内师大邮箱
+    - name: 师大邮箱
       style: basic
       url: http://mail.imnu.edu.cn/
 
