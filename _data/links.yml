@@ -121,11 +121,6 @@
       style: basic
       url: https://weibo.com/
 
-    - name: 微信网页版
-      icon: wechat green
-      style: orange
-      url: https://wx.qq.com/
-
     - name: 百度贴吧
       icon: paw blue
       style: violet
@@ -164,6 +159,11 @@
       icon: github black
       style: basic
       url: https://github.com/
+
+    - name: 微信网页版
+      icon: wechat green
+      style: orange
+      url: https://wx.qq.com/
 
   - category: 学习
     links:
