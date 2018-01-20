@@ -169,6 +169,10 @@
   - category: 学习
     links:
     - name: Coursera
+      style: green
+      url: https://www.icourse163.org/
+
+    - name: Coursera
       style: basic
       url: https://www.coursera.org/
 
