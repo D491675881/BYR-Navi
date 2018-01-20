@@ -16,9 +16,10 @@ $(document).ready(function () {
 });
 
 // loading dimmer
-$('.loading-trigger').click(function () {
-    $('#loading-dimmer').dimmer('show');
-});
+// 注释遮罩层
+// $('.loading-trigger').click(function () {
+//     $('#loading-dimmer').dimmer('show');
+// });
 
 // masthead background
 $('.ui.inverted.masthead.segment').addClass('bg' + Math.ceil(Math.random() * 14)).removeClass('zoomed');
