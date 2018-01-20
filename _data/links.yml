@@ -106,7 +106,7 @@
       style: basic
       url: https://www.wikipedia.org/
 
-    - name: TinEye
+    - name: TinEye(图像搜索)
       style: basic
       url: https://www.tineye.com/
 
@@ -175,10 +175,6 @@
       style: basic
       url: https://www.coursera.org/
 
-    - name: MOOC
-      style: basic
-      url: http://mooc.org/
-
     - name: 网易公开课
       style: basic
       url: http://open.163.com/
@@ -220,6 +216,10 @@
       style: basic
       url: http://www.lagou.com/
 
+    - name: boss直聘
+      style: basic
+      url: https://www.zhipin.com/
+
     - name: 智联招聘
       style: basic
       url: http://zhaopin.com/
@@ -229,7 +229,7 @@
       url: http://www.51job.com/
 
     - name: 应届生
-      style: basic
+      style: cyan
       url: http://www.yingjiesheng.com/
 
   - category: 娱乐
