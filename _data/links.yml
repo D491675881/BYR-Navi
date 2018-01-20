@@ -279,9 +279,9 @@
       style: basic
       url: http://ac.qq.com/
 
-    - name: 虾米
-      style: basic
-      url: http://www.xiami.com/
+#    - name: 虾米
+#      style: basic
+#      url: http://www.xiami.com/
 
     - name: 多瑙影院
       style: basic

@@ -96,11 +96,11 @@
   shortcut: 淘宝
   style: black
 
-- id: xiami
-  name: 虾米
-  url: http://www.xiami.com/search?key=
-  shortcut: 虾米
-  style: black
+#- id: xiami
+#  name: 虾米
+#  url: http://www.xiami.com/search?key=
+#  shortcut: 虾米
+#  style: black
 
 - id: fkdy
   name: 影视
