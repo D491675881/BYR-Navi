@@ -6,13 +6,13 @@
       style: basic
       url: https://www.jd.com/
 
-    - name: 天猫
-      style: red
-      url: https://www.tmall.com/
-
     - name: 淘宝
       style: orange
       url: https://www.taobao.com/
+
+    - name: 造作
+      style: gray
+      url: https://zaozuo.com/
 
     - name: 亚马逊
       icon: amazon yellow
@@ -47,10 +47,6 @@
     - name: IKEA
       style: basic
       url: https://www.ikea.cn/
-
-    - name: 造作
-      style: black
-      url: https://zaozuo.com/
 
     - name: 锤子科技
       style: basic
@@ -91,10 +87,9 @@
       style: basic
       url: https://mail.sina.com.cn/
 
-    - name: Gmail
-      icon: google red
-      style: basic
-      url: https://mail.google.com/
+    - name: 易撰-自媒体
+      style: black
+      url: http://zmt.yizhuan5.com/?s=MTU0NjQ
 
     - name: 谷歌翻译
       icon: translate blue
