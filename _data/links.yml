@@ -345,7 +345,7 @@
       url: http://219.225.185.186/
 
     - name: 内师大贴吧
-      style: basic
+      style: blue
       url: http://tieba.baidu.com/f?kw=%C4%DA%C3%C9%B9%C5%CA%A6%B7%B6%B4%F3%D1%A7&fr=ala0&tpl=5
 
     - name: 内师大邮箱
