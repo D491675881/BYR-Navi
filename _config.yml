@@ -18,10 +18,10 @@ organization: TEELAB
 organization_url: http://teelab.net
 contact: contact[at]irockbunny[dot]com
 
-image: /images/logo.png
-logo: /images/logo.png
-logo_dark: /images/logo-white.svg
-logo_white: /images/logo-white.svg
+image: /NSD-Navi/images/logo.png
+logo: /NSD-Navi/images/logo.png
+logo_dark: /NSD-Navi/images/logo-white.svg
+logo_white: /NSD-Navi/images/logo-white.svg
 
 plugins:
 - jekyll-seo-tag
