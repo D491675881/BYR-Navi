@@ -292,9 +292,9 @@
       style: basic
       url: http://www.imnu.edu.cn/
 
-    - name: 官方导航
-      style: basic
-      url: http://dep.bupt.edu.cn/dh/
+#    - name: 官方导航
+#      style: basic
+#      url: http://dep.bupt.edu.cn/dh/
 
     - name: 本科教务系统
       style: basic
@@ -336,6 +336,10 @@
       style: basic
       url: http://ic.imnu.edu.cn/
 
+    - name: 校园网
+      style: red
+      url: http://logout.imnu.edu.cn/
+
     - name: 信息公开网
       style: basic
       url: http://xxgk.imnu.edu.cn/default.jsp
@@ -347,10 +351,6 @@
     - name: 内师大贴吧
       style: basic
       url: http://tieba.baidu.com/f?kw=%C4%DA%C3%C9%B9%C5%CA%A6%B7%B6%B4%F3%D1%A7&fr=ala0&tpl=5
-
-    - name: 校园网
-      style: red
-      url: http://logout.imnu.edu.cn/
 
     - name: 内师大邮箱
       style: basic
