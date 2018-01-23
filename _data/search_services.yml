@@ -6,8 +6,8 @@
   icon: paw blue inverted
   style: black
 
-- id: 坑壁cc
-  name: 百度
+- id: baidu
+  name: 坑壁cc
   url: https://baidu.com/s?wd=
   suffix: "&ie=utf-8"
   shortcut: 百度
