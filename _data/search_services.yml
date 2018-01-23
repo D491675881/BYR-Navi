@@ -6,6 +6,14 @@
   icon: paw blue inverted
   style: black
 
+- id: 坑壁cc
+  name: 百度
+  url: https://baidu.com/s?wd=
+  suffix: "&ie=utf-8"
+  shortcut: 百度
+  icon: paw blue inverted
+  style: black
+
 - id: google
   name: 谷歌
   url: https://google.com/search?q=
@@ -33,9 +41,9 @@
   shortcut: 维基
   style: black
 
-- id: ieeexplore
-  name: IEEE Xplore
-  url: http://ieeexplore.ieee.org/search/searchresult.jsp?queryText=
+#- id: ieeexplore
+#  name: IEEE Xplore
+#  url: http://ieeexplore.ieee.org/search/searchresult.jsp?queryText=
 
 - id: baiduxueshu
   name: 百度学术
@@ -44,14 +52,14 @@
 - id: googlescholar
   name: 谷歌学术
   url: https://scholar.google.com/scholar?q=
+#
+#- id: etymonline
+#  name: Etymonline
+#  url: https://www.etymonline.com/index.php?search=
 
-- id: etymonline
-  name: Etymonline
-  url: https://www.etymonline.com/index.php?search=
-
-- id: mw
-  name: Merriam-Webster
-  url: https://www.merriam-webster.com/dictionary/
+#- id: mw
+#  name: Merriam-Webster
+#  url: https://www.merriam-webster.com/dictionary/
 
 - id: github
   name: GitHub
