@@ -6,14 +6,6 @@
   icon: paw blue inverted
   style: black
 
-- id: baidu
-  name: 坑壁cc
-  url: https://baidu.com/s?wd=
-  suffix: "&ie=utf-8"
-  shortcut: 百度
-  icon: paw blue inverted
-  style: black
-
 - id: google
   name: 谷歌
   url: https://google.com/search?q=
