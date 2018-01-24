@@ -18,7 +18,7 @@ Before you start, you should have some basic understanding of the following:
 - UNIX/Linux Shell Script
 
 ## Share the Love
-I've put a lot of time and effort into making **BYR-Navi** awesome.
+I've put a lot of time and effort into making **NSD-Navi** awesome.
 If you love it, you can buy me a coffee.
 Every cup helps!
 I promise it will be a good investment.
