@@ -1,16 +1,3 @@
-[![Build Status](https://travis-ci.org/BYR-Navi/BYR-Navi.svg)][travis-ci]
-[![Website](https://img.shields.io/website-up-down-green-red/http/byr-navi.com.svg)][website]
-[![License](https://img.shields.io/github/license/BYR-Navi/BYR-Navi.svg)][license]
-[![Say Thanks](https://img.shields.io/badge/Say-Thanks!-1EAEDB.svg)][saythanks]
-[![Donate](https://img.shields.io/badge/Donate-Coffee-A5673F.svg)][donate]
-
-[![Watchers](https://img.shields.io/github/watchers/BYR-Navi/BYR-Navi.svg?style=social&label=Watch)][watch]
-[![Stargazers](https://img.shields.io/github/stars/BYR-Navi/BYR-Navi.svg?style=social&label=Star)][star]
-[![Forks](https://img.shields.io/github/forks/BYR-Navi/BYR-Navi.svg?style=social&label=Fork)][fork]
-
-[![Closed Issues](https://img.shields.io/github/issues-closed/BYR-Navi/BYR-Navi.svg)][issue]
-[![Closed Pull Requests](https://img.shields.io/github/issues-pr-closed/BYR-Navi/BYR-Navi.svg)][pull]
-
 # NSD-Navi
 A Navigation [Website][website] for NSD
 
