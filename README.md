@@ -11,8 +11,8 @@
 [![Closed Issues](https://img.shields.io/github/issues-closed/BYR-Navi/BYR-Navi.svg)][issue]
 [![Closed Pull Requests](https://img.shields.io/github/issues-pr-closed/BYR-Navi/BYR-Navi.svg)][pull]
 
-# BYR-Navi
-A Navigation [Website][website] for BYR
+# NSD-Navi
+A Navigation [Website][website] for NSD
 
 ## Design Philosophy
 This project is a [Jekyll][jekyll]-powered website, which is built based on [Semantic UI][semantic] web framework, and deployed using [GitHub Pages][github-pages].
