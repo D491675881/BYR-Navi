@@ -1,6 +1,3 @@
-# NSD-Navi
-A Navigation [Website][website] for NSD
-
 ## Design Philosophy
 This project is a [Jekyll][jekyll]-powered website, which is built based on [Semantic UI][semantic] web framework, and deployed using [GitHub Pages][github-pages].
 
