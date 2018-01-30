@@ -290,6 +290,10 @@
     - name: FIX字幕侠
       style: yellow
       url: http://www.zimuxia.cn/
+      
+    - name: 网易云音乐
+      style: basic
+      url: http://music.163.com/      
 
 - section: nsd
   categories:
