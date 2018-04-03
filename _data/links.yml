@@ -117,6 +117,10 @@
     - name: 磁力搜索
       style: yellow
       url: http://www.btyunsou.me/
+      
+    - name: 磁力王者
+      style: yellow
+      url: http://torrent-finder.info    
 
   - category: 社交
     links:
