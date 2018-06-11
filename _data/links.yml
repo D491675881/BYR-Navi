@@ -167,6 +167,12 @@
       icon: github black
       style: basic
       url: https://github.com/
+      
+    - name: 码云
+      icon: gitee black
+      style: basic
+      url: https://gitee.com/     
+      
 
     - name: 微信网页版
       icon: wechat green
