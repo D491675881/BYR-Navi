@@ -20,10 +20,10 @@ author: D491675881
 #author_url: http://irockbunny.com
 #contact: contact[at]irockbunny[dot]com
 
-image: /images/logo.png
-logo: /images/logo.png
-logo_dark: /images/logo-white.svg
-logo_white: /images/logo-white.svg
+image: https://github.com/D491675881/NSD-Navi/tree/master/images/logo.png
+logo: https://github.com/D491675881/NSD-Navi/tree/master/images/logo.png
+logo_dark: https://github.com/D491675881/NSD-Navi/tree/master/images/logo-white.svg
+logo_white: https://github.com/D491675881/NSD-Navi/tree/master/images/logo-white.svg
 
 plugins:
 - jekyll-seo-tag
